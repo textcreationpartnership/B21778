@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of the laws in force against forestallers, regrators, ingrossers, exporters, or transporters of corn commanded to be put in speedy and vigorous execution by the Lords justices late proclamation and their excellencies new order in council requiring all justices of the peace ... to use their utmost care and diligence that the said proclamation be duly observed ...</title>
+            <title>Laws, etc.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <extent>Approx. 16KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21778</idno><idno type="EEBO-CITATION">11318841</idno>
+  <idno type="VID">205031</idno>
+  <idno type="EEBO-PROQUEST">2240887331</idno>
+  
+            <idno type="STC">Wing E867</idno>
+            <idno type="OCLC">11318841</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21778)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205031)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1460:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of the laws in force against forestallers, regrators, ingrossers, exporters, or transporters of corn commanded to be put in speedy and vigorous execution by the Lords justices late proclamation and their excellencies new order in council requiring all justices of the peace ... to use their utmost care and diligence that the said proclamation be duly observed ...</title>
+                  <title>Laws, etc.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by William Downing ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licens'd according to order."</note>
+                  <note>Imperfect: creased and stained.</note>
+                  <note>Reproduction of original in Chetham's Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Trade regulation --  England.</term>
+               <term type="topical_term">Corn laws (Great Britain)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:205031:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>W R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure> An Abstract of the LAWS in Force Against Forestallers, Regrators, Ingrossers, Exporters or Transporters of CORN, Commanded to be put in speedy and vigorous Execution by the Lords Justices <hi>late Proclamation,</hi> and Their Excellencies New ORDER in Council requiring all Justices of the Peace, in the several Counties of <hi>England</hi> and <hi>Wales,</hi> to use their utmost Care and Diligence that the said <hi>Proclamation</hi> be duly Observed; by means thereupon not only the Price of Corn, but also of all other Provisions, will be considerably abated, and CORN-JOBBERS, <hi>&amp;c.</hi> Prosecuted and suppressed. As also against carrying Corn (when Dear) out of the Kingdom, to the great Prejudice and Oppression of the Poor. And likewise for setting the Poor on Work, and making Provision for the Poorer sort of People.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Published for the better Direction of such as shall endeavour the Due Execution thereof.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>OFFENCES.</hi>
+                     </cell>
+                     <cell role="label">LAWS and STATUTES</cell>
+                     <cell role="label">
+                        <hi>PENALTIES.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">
+                        <hi>Forestallers, Regrators, and Ingrosters of Bread-Corn.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>HE or she that shall buy or contract for any Corn, Merchandize, Victual, or other thing whatso-ever, either by Word, Letter, Message, or otherwise, (in the way) before it shall be brought (by Land or by Water) unto any City, Port, Haven or Creek, Road, Fair or Market where it should be sold, or shall cause the same to be so bought, or shall disswade the People from bringing any such Commodity to any such Place, or (being brought) shall per<g ref="char:EOLhyphen"/>swade them to Inhance the Price there shall be adjudged a <hi>Forestaller.</hi>
+                     </cell>
+                     <cell>5 &amp; 6 <hi>E.</hi> 6. <hi>cap.</hi> 14.</cell>
+                     <cell>
+                        <p>THE Party guilty of any of these Offences shall Forfeit for the first Offence the Value of the Goods so bought, or had, and suffer Two Months Im<g ref="char:EOLhyphen"/>prisonment without Bail or Main<g ref="char:EOLhyphen"/>prize.</p>
+                        <p>For the second Offence, he shall Forfeit double the Value of such Goods so bought or contracted for, and suffer Six Months Imprisonment without Bail or Mainprize.</p>
+                        <p>And for the third Offence, he shall Forfeit all his Goods and Chat<g ref="char:EOLhyphen"/>tels, shall be set upon the Pillory, in the Place where the Offender shall dwell, and be Imprisoned du<g ref="char:EOLhyphen"/>ring the King's Pleasure.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He or she that shall buy any Corn, Grain, Wine, Fish, Butter, Cheese, Candles, Tallow, Sheep, Lambs, Calves, Swine, Pigs, Geese, Capons, Hens, Chickens, Pigeons, Conies, or other dead Victuals whatsoever brought to any Fair or Market to be sold there, and do sell the same again in the same Fair or Market, or in some other Fair or Market within four Miles, shall be deemed a <hi>Regrator.</hi>
+                     </cell>
+                     <cell>5 &amp; 6 <hi>E.</hi> 6. <hi>cap.</hi> 14.</cell>
+                     <cell>This Judgment shall be executed not only upon all manner of <hi>Fore<g ref="char:EOLhyphen"/>stallers, &amp;c.</hi> but also upon those that are any way Aiding or Assisting therein, or to Counsel, Help or Fa<g ref="char:EOLhyphen"/>vour them in these Irregular and Per<g ref="char:EOLhyphen"/>nicious Practices. 25 <hi>E.</hi> 3 <hi>Cap. Stat.</hi> 4.</cell>
+                  </row>
+                  <row>
+                     <cell>He that shall Ingross, or get into his Hands by Buying, Contract, or Pro<g ref="char:EOLhyphen"/>mise, (other than by Demise, Grant, or Lease of Land or Tythe) any quan<g ref="char:EOLhyphen"/>tity of Corn growing in the Fields, or other Grain, Butter, Cheese, Fish, or other dead Victual whatsoever, with intent to sell it again, in order to Inhance the Price thereof, shall be adjudged an <hi>Ingrosser.</hi>
+                     </cell>
+                     <cell>5 &amp; 6 <hi>E.</hi> 6. <hi>cap.</hi> 14.</cell>
+                     <cell>The Party guilty of any of these Offences, shall Forfeit <hi>ut supra.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>He that buyeth Grain or Corn in any Market for Change of Seed, shall bring as much the same Day, and sell it (if he can) according to the present Price of Grain or Corn there,</cell>
+                     <cell>5 &amp; 6 <hi>E.</hi> 6. <hi>cap.</hi> 14.</cell>
+                     <cell>On Pain to Forfeit double the Value of the Grain or Corn so bought.</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <p>He that buys any Cattle, shall not sell them again alive within five Weeks; but ought to keep them upon Pasture which he hath either by Grant or Prescription,</p>
+                        <p>According to the Statute of 5 <hi>E.</hi> no <hi>Forestaller, Ingrosser,</hi> or <hi>Regrator,</hi> (who is manifestly known to be an Oppressor of the Poor, by Buying Corn, Grain, <hi>&amp;c.)</hi> should be suffered to Dwell, Reside, Continue or In<g ref="char:EOLhyphen"/>habit in any Town.</p>
+                     </cell>
+                     <cell>5 &amp; 6 <hi>E.</hi> 6. <hi>cap.</hi> 14.</cell>
+                     <cell>
+                        <p>On Pain to Forfeit double the Value thereof. To be Convicted before the Justices in Sessions, by Testimony of Two Witnesses. One half of the Forfeitures to the King, and the other half to the Prosecutor; but when at the King's Suit only, then the whole to the King's Use. To be Sued for in any of the King's Courts of Records, either by Bill, Plaint, Action of Debt, <hi>&amp;c.</hi> against which no Wager of Law, Essoin or Protection be allow'd. None shall be punished twice for the same Offence.</p>
+                        <p>The Offence against this Statute shall be presented within Two Years.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label" cols="3">
+                        <hi>Exporters or Transporters of Corn or Grain.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>EXPORTERS of Corn, Grain, Pease or Beans, when Wheat is above <hi>Forty Eight Shillings</hi> the Quarter, Barley, Malt, or Buck-Wheat above <hi>Twenty Eight Shillings</hi> the Quarter, Rye above <hi>Thirty Two Shillings</hi> the Quarter, Oats above <hi>Thirteen Shillings</hi> and <hi>Four Peace</hi> the Quarter, and Pease or Beans above <hi>Thirty Two Shillings</hi> the Quarter.</cell>
+                     <cell>15 <hi>Car.</hi> 2. <hi>cap.</hi> 5.</cell>
+                     <cell>
+                        <p>FOR the first Offence, Imprisonment without Bail or Mainprize, and Forfei<g ref="char:EOLhyphen"/>ture of the Corn so bought or contracted for. For the second Offence, Imprisonment for half a Year, without Bail, <hi>&amp;c.</hi> and loss of double the Value of the Corn so bought or contracted for. And for the third Offence, setting in the Pillory, and Forfei<g ref="char:EOLhyphen"/>ture of all his Goods, <hi>&amp;c.</hi> and Imprison<g ref="char:EOLhyphen"/>ment during the King's pleasure.</p>
+                        <p>One Moiety of the Forfeiture to the King, and the other to the Prosecutor; but the whole Forfeiture to the King where the Conviction is at the King's Suit only.</p>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>No Badger, Lader, Kidder, Carrier, or Tran<g ref="char:EOLhyphen"/>sporter of Corn, shall be Licensed but in the General Quarter-Sessions for the County where such Person shall dwell, or hath dwelt for Three Years before the Date of his License, and is or hath been a Married Man, and is at the time of such License a Housholder, and not a Servant or Retainer to any Person, and of the Age of Thirty Years. Such License to continue but for a Year, to be Signed by Three Justices <hi>(Quorum un.)</hi> then present. The Justices, <hi>&amp;c.</hi> in Sessions shall (at their Discretions) take Recognizances of such Persons so Licensed that they shall not Forestall or Ingross, or put in Practice any Act contrary to the 5 &amp; 6 <hi>Ed.</hi> 6.</cell>
+                     <cell>5 <hi>Eliz. cap.</hi> 12.</cell>
+                     <cell>On Pain of such Person taking such License Forfeiting <hi>Five Pounds;</hi> and the Licenses not taken pursu<g ref="char:EOLhyphen"/>ant to the said Act are declared to be void.</cell>
+                  </row>
+                  <row>
+                     <cell>No Person shall buy any Grain or Corn out of any open Fair or Market unless he be thereunto Licensed by special Order, and express Words,</cell>
+                     <cell>5 <hi>Eliz. cap.</hi> 12.</cell>
+                     <cell>Upon Pain of Forfeiting, for every time so offending, <hi>Five Pounds,</hi> to be Levied in manner afore-said, and to such Uses as are last before-mentioned.</cell>
+                  </row>
+               </table>
+            </p>
+            <div type="part">
+               <head>LAWS <hi>and</hi> STATUTES <hi>for Relief of the</hi> POOR, <hi>And Setting Poor People on Work.</hi>
+               </head>
+               <p>THE Church-Wardens, or the Major part, shall take Order (by the Consent of Two Justices) <hi>(Quorum un.)</hi> for the <hi>Setting Poor People on Work,</hi> and for <hi>Raising</hi> (by Taxation) <hi>a convement Stock to Work upon; To Relieve Impotent Persons; To put forth Apprentices,</hi> &amp;c. These Officers to meet Monthly to consider of the Premisses, and (after their Year is expired) to render a true Account (to Two such Ju<g ref="char:EOLhyphen"/>stices,) and pay the Surplussage thereof to their Suc<g ref="char:EOLhyphen"/>cessors, on pain of Forfeiting 20 <hi>s. Stat:</hi> 43 <hi>Eliz. cap.</hi> 2.</p>
+               <p>Where the Inhabitants of any Parish, not able to Re<g ref="char:EOLhyphen"/>lieve their Poor, Two Justices <hi>(Quorum un.)</hi> may Tax other Parishes and Places, or the whole Hundred; and if the Hundred be not able, the Justices of the Peace, in Sessions, may Tax the County in part, or wholly, at their Discretions. The Overseers of the Poor (by War<g ref="char:EOLhyphen"/>rant from Two such Justices) may Levy such Tax or Surplussage by Distress and Sale of such Goods; and for want of Distress, two such Justices may commit the Party to Prison, there to remain without Bail, <hi>&amp;c.</hi> until it be discharged. And also, to commit Persons which <hi>Refuse to Work to the House of Correction.</hi> 43 <hi>Eliz. cap.</hi> 2.</p>
+               <p>The said Overseers, <hi>&amp;c.</hi> or the greater part of them, with the Assent of two Justices, <hi>&amp;c.</hi> may Bind poor Children Apprentices, <hi>Viz.</hi> A Man-Child till 24 years of Age, and a Woman-Child until 21 years, or Mar<g ref="char:EOLhyphen"/>riage. <hi>Stat.</hi> 43 <hi>Eliz. cap.</hi> 2.</p>
+               <p>The said Overseers, <hi>&amp;c.</hi> shall (with Consent of the Lord of the Mannor, first obtained in Writing under his hand and Seal) either of themselves, or by a <hi>Sessions-</hi>Orcer, Erect Cottages upon the Waste, and Lodge In-nates therein, notwithstanding the <hi>Statute</hi> of 31 <hi>Eliz cap.</hi> 7. But those Cottages shall not be after<g ref="char:EOLhyphen"/>wards otherwise imployed than to Lodge Impotent Persons therein, (upon the pains mentioned in the said <hi>Statute</hi> of 31 <hi>Eliz.) Stat.</hi> 43 <hi>Eliz. cap.</hi> 2.</p>
+               <p>The Father, Grand-Father, Mother, Grand-Mother, and Children of every poor Person, shall be Assessed towards their Relief, as the Justices in the Sessions of the county where such Father, <hi>&amp;c.</hi> dwells shall ap<g ref="char:EOLunhyphen"/>poin, on pain of Forfeiting <hi>Twenty Shillings per</hi> Month.</p>
+               <p>Head-Officers in Corporate Towns, and Aldermen of <hi>London,</hi> have, in their several Precincts, like Au<g ref="char:EOLhyphen"/>thority as Justices of the Peace have in their respective Counties: But the County-Justices may not inter<g ref="char:EOLhyphen"/>meddle in Corporations for the Execution of this Law.</p>
+               <p>When one Parish extends into several Counties or Liberties, the Justices, or Head-Officers, shall only inter-meddle within their respective Districts: But the Church-Wardens and Overseers shall have a mixt Jurisdiction, and shall render an Account to the Ju<g ref="char:EOLhyphen"/>stices or Head-Officers of both Places. <hi>Stat.</hi> 43 <hi>Eliz. cap.</hi> 2.</p>
+               <p>Justices of the Peace, and Head-Officers of every County and Corporation, or the most part of them, at <hi>Easter-Session,</hi> shall Yearly (or as often as they shall think fit) Rate every Parish at a certain Sum, to be paid Weekly, through the whole County or Corpora<g ref="char:EOLhyphen"/>tion; which <hi>Sum</hi> so Rated the Church▪Wardens and Constable of every Parish, or any of them, (or, in their Default, a Justice of the Peace) have power to Assess and Levy by Distress, Sale, and Commitment, as afore<g ref="char:EOLhyphen"/>said. <hi>Stat</hi> 43 <hi>Eliz. cap.</hi> 2.</p>
+               <p>Justices of the Peace shall then likewise Rate every Parish, towards the Relief of the <hi>Kings-Bench</hi> and <hi>Ma-shalse<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Prisons,</hi> and also of <hi>Hospitals</hi> and <hi>Alms-Houses</hi> within their several Jurisdictions; appointing only so much to the said <hi>Hospitals</hi> and <hi>Alms-Houses,</hi> that the afore-said <hi>Prisons</hi> may each of them Receive at least <hi>Twenty Shillings</hi> Yearly out of every County.</p>
+               <p>The <hi>Stock</hi> of every County shall be ordered and disposed to charitable Uses, as the Justices, or the more part of them, shall think convenient. <hi>Stat.</hi> 43 <hi>Eliz. cap.</hi> 2.</p>
+               <p>Money given to put out poor Children Apprentices shall be imployed in Corporate-Towns by the Cor<g ref="char:EOLhyphen"/>porations, and in other Places by the Parson or Vicar, together with the Constables, Church-Wardens, and Overseers of the Poor, or the most part of them, who shall not forbear, or refuse to imploy the same accordingly, on pain to Forfeit <hi>Five Marks</hi> each of them so making Default, to be divided betwixt the Poor of the Parish and the Prosecutor. <hi>Stat.</hi> 7 <hi>Jac.</hi> 1. <hi>cap.</hi> 3.</p>
+               <p>The Party taking Money with such an Apprentice shall give Security by Bond to repay it at the end of seven Years, next ensuing the Date thereof, or within Three Months next after the end of the said seven Years: And if such Apprentice shall die within the seven Years, then within 1 Year after his or her Death.</p>
+               <p>And if the Master, Mistress, or Dame, happen to die within the seven Years, then within one Year after their Death; so as the Money may be imployed in placing the Apprentice with some other of the same Trade, to serve out his Time, at the Discretion of the Parties trusted, as afore-said. <hi>Stat.</hi> 7 <hi>Jac.</hi> 1. <hi>cap.</hi> 3.</p>
+               <p>The Money so given shall be imployed within three Months after the Receipt thereof; and if there shall not be apt Persons found in the places where it is given, to be Apprentices, it shall be imployed in the Parishes next adjoyning, by the Parties that are trusted with it, in the places where it was so given, and there also Bond shall be taken, as before-men<g ref="char:EOLhyphen"/>tioned. <hi>Stat.</hi> 7 <hi>Jac.</hi> 1. <hi>cap.</hi> 3.</p>
+               <p>The Choice of Apprentices shall be out of the poorest sort of Children, whose Parents are the least able to Relieve them; and no such Apprentice shall be above the Age of 15 Years when he or she is Bound. <hi>Stat.</hi> 7 <hi>Jac:</hi> 1. <hi>cap.</hi> 3.</p>
+               <p>The Parties so trusted shall Yearly, in <hi>Easter</hi> Week. or within a Month after. Account before two or more of the next Justices, <hi>&amp;c.</hi> And if there be any Obli<g ref="char:EOLhyphen"/>gations, or Money remaining in their hands, they shall (upon such Account, or within Ten Days after) deliver the same unto their Successors. <hi>Stat.</hi> 7 <hi>Jac.</hi> 1. <hi>cap.</hi> 3.</p>
+               <p>The Church-Wardens and Overseers of the Poor (mention'd in the Act of 43 <hi>Eliz. cap.</hi> 2.) may, with the Consent of two or more Justices of the Peace, <hi>(Quorum un)</hi> within their respective Limits, (wherein there shall be more Justices than one, and where there shall be no more than one, with the Assent of that one Justice) set up, use, and occupy any Trade, My<g ref="char:EOLhyphen"/>stery, or Occupation. <hi>only for Setting on Work, and better Relief of the Poor</hi> of the Parish or Place where they so bear Office respectively. <hi>Stat.</hi> 3 <hi>Car.</hi> 1. <hi>c.</hi> 4.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>William Downing</hi> in <hi>Bartholomew-Chse</hi> near <hi>West-Smithfield,</hi> 1698.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Licens'd according to Order.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <pb facs="tcp:205031:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </back>
+   </text>
+</TEI>
